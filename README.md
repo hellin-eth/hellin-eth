@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @hellin-eth
+- 👋 Hi, I’m @hellin-eth. Spain based, GMT+2 enrolled in Developer_DAO
 - 👀 I’m interested in Cryptospace, web3, solidity and NFT
-- 🌱 ~~I’m currently learning Solidity, NFT.~~ Going back to the startpoint, mastering javascript. 
-- 💞️ I’m looking to collaborate on 
+- 💪 I am a full time IT project manager and Product owner 
+- 🌱 ~~I’m currently learning Solidity, NFT.~~ Going back to the startpoint, mastering javascript + VUE to be able to build on web3. 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me: diego 9 hellin.info 
 
 <!---
